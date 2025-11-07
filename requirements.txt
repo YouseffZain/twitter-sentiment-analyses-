@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+# optional if you want stemming/lemmatization; uncomment if needed
+# nltk
